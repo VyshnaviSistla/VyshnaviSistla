@@ -1,3 +1,4 @@
+![logo](https://github.com/VyshnaviSistla/VyshnaviSistla/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm VyshnaviSistla</h1>
 <h3 align="center">BSc student in Maths🔢,Stats📊,& Computer Science💻</h3>
 <img align="right" alt="code" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
